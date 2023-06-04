@@ -1,0 +1,13 @@
+*.out
+*.o
+*.out
+#test.*
+*dSYM*
+.DS*
+#.gitignore
+*vscode*
+#fun
+minishell
+shell
+#tests/test
+#Intra*
